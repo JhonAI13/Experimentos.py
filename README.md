@@ -1,3 +1,3 @@
 # Experimentos.py
 ***
- Este repositório será para commits de aprendizado.
+ Este repositório será para commits de aprendizado. Em python atualmente.
